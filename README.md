@@ -56,12 +56,12 @@ Extensions Added:
 ```
 
 # 食用方法
+``` bash
+涵盖主题，图标，字体，代码上色，代码片段，自动格式化，自动补全等
+过程中因为编辑器性能原因删掉过一部分插件
+推荐写Vue、小程序、JQ、Stylus等重度患者推荐使用
+```
 
-> 涵盖主题，图标，字体，代码上色，代码片段，自动格式化，自动补全等
-
-> 过程中因为编辑器性能原因删掉过一部分插件
-
-> 推荐写Vue、小程序、JQ、Stylus等重度患者推荐使用
 ``` bash
 1、Settings Sync是vscode中同步设置和安装插件的小工具，在扩展商店中搜索并安装它 
 2、登陆Github>Your profile> settings>Developer settings>personal access tokens>generate new token，输入名称，勾选Gist，提交 
