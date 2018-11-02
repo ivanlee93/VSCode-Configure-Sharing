@@ -3,7 +3,7 @@
 ### CODE SETTINGS SYNC UPLOAD SUMMARY
 ### Version: 3.2.0
 ``` bash
-GitHub Gist: 679b388f0aadc034c39abc829878ac9d
+GitHub Token: e2f217000216f94607d937613e2a424f65d629f2
 GitHub Gist Type: Secret
 ```
 ### Restarting Visual Studio Code may be required to apply color and file icon theme.
@@ -63,6 +63,10 @@ Extensions Added:
 > 过程中因为编辑器性能原因删掉过一部分插件
 
 > 推荐写Vue、小程序、JQ、Stylus等重度患者推荐使用
+
+> 安装Setting Sync插件，先备份自己的配置后，重新生成gistID，同步我的Token即可下载我的所有配置
+
+> 具体步骤可以前往 https://www.cnblogs.com/kenz520/p/7416836.html 查看
 
 Done.
 
