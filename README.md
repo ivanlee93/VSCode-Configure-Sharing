@@ -3,7 +3,6 @@
 ### CODE SETTINGS SYNC UPLOAD SUMMARY
 ### Version: 3.2.0
 ``` bash
-GitHub Gist: 679b388f0aadc034c39abc829878ac9d
 GitHub Gist Type: Secret
 ```
 ### Restarting Visual Studio Code may be required to apply color and file icon theme.
