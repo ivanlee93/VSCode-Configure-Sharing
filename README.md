@@ -3,7 +3,6 @@
 ### CODE SETTINGS SYNC UPLOAD SUMMARY
 ### Version: 3.2.0
 ``` bash
-GitHub Token: e2f217000216f94607d937613e2a424f65d629f2
 GitHub Gist: 679b388f0aadc034c39abc829878ac9d
 GitHub Gist Type: Secret
 ```
