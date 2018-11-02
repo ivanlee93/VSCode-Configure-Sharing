@@ -3,7 +3,6 @@
 ### CODE SETTINGS SYNC UPLOAD SUMMARY
 ### Version: 3.2.0
 ``` bash
-GitHub Token: e2f217000216f94607d937613e2a424f65d629f2
 GitHub Gist Type: Secret
 ```
 ### Restarting Visual Studio Code may be required to apply color and file icon theme.
@@ -63,9 +62,13 @@ Extensions Added:
 > 过程中因为编辑器性能原因删掉过一部分插件
 
 > 推荐写Vue、小程序、JQ、Stylus等重度患者推荐使用
-
-> 安装Setting Sync插件，先备份自己的配置后，重新生成gistID，同步我的Token即可下载我的所有配置
-
+``` bash
+1、Settings Sync是vscode中同步设置和安装插件的小工具，在扩展商店中搜索并安装它 
+2、登陆Github>Your profile> settings>Developer settings>personal access tokens>generate new token，输入名称，勾选Gist，提交 
+3、保存Github Access Token 
+4、打开vscode，Ctrl+Shift+P打开命令框，输入sync，找到update/upload settings，输入Token，上传成功后会返回Gist ID，保存此Gist ID. 
+5、若需在其他机器上DownLoad插件的话，同样，Ctrl+Shift+P打开命令框，输入sync，找到Download settings，会跳转到Github的Token编辑界面，点Edit，regenerate token，保存新生成的token，在vscode命令框中输入此Token，回车，再输入之前的Gist ID，即可同步插件和设置。
+```
 > 具体步骤可以前往 https://www.cnblogs.com/kenz520/p/7416836.html 查看
 
 Done.
