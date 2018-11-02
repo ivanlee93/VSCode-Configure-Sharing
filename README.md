@@ -8,7 +8,6 @@ GitHub Gist: 679b388f0aadc034c39abc829878ac9d
 GitHub Gist Type: Secret
 ```
 ### Restarting Visual Studio Code may be required to apply color and file icon theme.
---------------------
 ``` bash
 Files Uploaded:
   extensions.json > extensions.json
@@ -57,7 +56,5 @@ Extensions Added:
   vue-peek v1.0.2
   vue-snippets v0.1.9
 ```
-
---------------------
 Done.
 
